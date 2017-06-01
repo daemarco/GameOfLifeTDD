@@ -1,2 +1,2 @@
 # GameOfLifeTDD
-Test driven solution of the GoL
+Test driven solution of the Conway's Game of Life
